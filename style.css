@@ -1,0 +1,25 @@
+/************************
+    GOOGLE FONF POPPINS 
+ ************************/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+.my-poppins-font {
+  font-family: "Poppins", sans-serif;
+}
+.my-bannar-title-color {
+  color: #03a9f4;
+}
+.my-card {
+  border: none;
+}
+.my-card-check p i {
+  margin-right: 15px;
+}
+.my-package-btn {
+  border: 0;
+  width: 100%;
+  border-radius: 50%;
+  background-color: #3f87f5;
+  padding: 5px 0px;
+  color: white;
+  font-weight: 800;
+}
