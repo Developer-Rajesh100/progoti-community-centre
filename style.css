@@ -11,6 +11,9 @@
 .my-card {
   border: none;
 }
+.my-card-hover :hover {
+  background-color: #f2ccff;
+}
 .my-card-check p i {
   margin-right: 15px;
 }
@@ -22,7 +25,15 @@
   padding: 5px 0px;
   color: white;
   font-weight: 800;
+  margin-bottom: 30px;
 }
 .my-footer-color {
   background-color: #0b0d17;
+}
+.my-choice-sec-img-margin {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.my-choice-sec-p {
+  text-align: justify;
 }
